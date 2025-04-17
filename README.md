@@ -20,6 +20,7 @@ Hi, my name is Taekyung Lee (you can call me Tae) and I am currently studying IS
   - English Major
 - [2019.03 ~ 2024.02] 숙명여자대학교 (Sookmyung Women's University)
    - English Language and Literature Major
+   - Global Cooperation Minor
 - [2024.03 ~ ] 연세대학교 (Yonsei University)
   - International Studies Major
   - AI Concentration Major

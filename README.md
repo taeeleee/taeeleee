@@ -34,6 +34,7 @@ Hi, my name is Taekyung Lee (you can call me Tae) and I am currently studying IS
 - [2021.09 ~ 2021.10] Soroptimist International Programme Officer
 - [2023.06 ~ 2023.08] Nest Hotel Front Desk
 - [2023.09 ~ 2023.11] WFUCA (World Federation of UNESCO Clubs and Associations) Programme Officer
+#### 🌐 Information and Communication Technology
 - [2024.11 ~ ] Barun ICT Research Center R&D Planning Intern
   
 ---

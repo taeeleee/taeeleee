@@ -4,7 +4,7 @@ Hi, my name is Taekyung Lee (you can call me Tae) and I am currently studying IS
 ---
 
 ### Skills
-🇰🇷 Native | 🇺🇸 Native | 🇨🇳 Intermediate
+🇰🇷 Native | 🇺🇸 Fluent | 🇨🇳 Advanced | 🇪🇸 Beginner
 
 | **Category** | **Technologies** |
 |--------------|-------------------|

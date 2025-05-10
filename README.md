@@ -8,7 +8,7 @@ Hi, my name is Taekyung Lee (you can call me Tae) and I am currently studying IS
 
 | **Category** | **Technologies** |
 |--------------|-------------------|
-| **![Programming Languages](https://img.shields.io/badge/Programming%20Languages-white?style=flat-square)** | ![Python](https://img.shields.io/badge/Python-0080FF?style=flat-square&logo=Python&logoColor=white)  |
+| **![Programming Languages](https://img.shields.io/badge/Programming%20Languages-white?style=flat-square)** | ![Python](https://img.shields.io/badge/Python-0080FF?style=flat-square&logo=Python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-16AA52?style=flat-square&logo=SQL) |
 | **![Collaboration Tools](https://img.shields.io/badge/Collaboration%20Tools-white?style=flat-square)** | ![Miro](https://img.shields.io/badge/Miro-FFD700?style=flat-square&logo=Miro&logoColor=black) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-FAFAFA?style=flat-square&logo=notion&logoColor=black) ![Google Drive](https://img.shields.io/badge/Google%20Drive-FAFAFA?style=flat-square&logo=google-drive&logoColor=black)
 | **![Documentations](https://img.shields.io/badge/Programming%20Languages-white?style=flat-square)** | ![Markdown](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=Markdown&logoColor=white) ![Latex](https://img.shields.io/badge/LaTex-326872?style=flat-square&logo=LaTex&logoColor=white) |
 
